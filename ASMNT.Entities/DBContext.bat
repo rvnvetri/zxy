@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Data Source=DESKTOP-QFSVEL2;TrustServerCertificate=True;Initial Catalog=Asmnt;Integrated Security=true;" Microsoft.EntityFrameworkCore.SqlServer --startup-project "./" --context TestApplicationDbContext --output-dir "./Models" --data-annotations --force --verbose --schema dbo --no-onconfiguring --no-pluralize

@@ -1,0 +1,15 @@
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.csproj.AssemblyReference.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.AssemblyInfoInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.AssemblyInfo.cs
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.csproj.CoreCompileInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\bin\Debug\net8.0\ASMNT.Repositories.deps.json
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\bin\Debug\net8.0\ASMNT.Repositories.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\bin\Debug\net8.0\ASMNT.Repositories.pdb
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\bin\Debug\net8.0\ASMNT.Entities.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\bin\Debug\net8.0\ASMNT.Entities.pdb
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Re.B1C5C4A5.Up2Date
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\refint\ASMNT.Repositories.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.pdb
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ref\ASMNT.Repositories.dll

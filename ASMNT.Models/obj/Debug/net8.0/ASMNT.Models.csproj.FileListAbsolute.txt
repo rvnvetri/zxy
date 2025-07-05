@@ -1,0 +1,11 @@
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\bin\Debug\net8.0\ASMNT.Models.deps.json
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\bin\Debug\net8.0\ASMNT.Models.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\bin\Debug\net8.0\ASMNT.Models.pdb
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.AssemblyInfoInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.AssemblyInfo.cs
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.csproj.CoreCompileInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\refint\ASMNT.Models.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.pdb
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ref\ASMNT.Models.dll
