@@ -82,3 +82,4 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Server\bin\Debug\net8.0\Microsoft.Extensions
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Server\bin\Debug\net8.0\System.ClientModel.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Server\obj\Debug\net8.0\ASMNT.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Server\obj\Debug\net8.0\ASMNT.Server.sourcelink.json

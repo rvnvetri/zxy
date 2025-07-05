@@ -9,3 +9,4 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Dtos\obj\Debug\net8.0\ASMNT.Dtos.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Dtos\obj\Debug\net8.0\refint\ASMNT.Dtos.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Dtos\obj\Debug\net8.0\ASMNT.Dtos.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Dtos\obj\Debug\net8.0\ref\ASMNT.Dtos.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Dtos\obj\Debug\net8.0\ASMNT.Dtos.sourcelink.json

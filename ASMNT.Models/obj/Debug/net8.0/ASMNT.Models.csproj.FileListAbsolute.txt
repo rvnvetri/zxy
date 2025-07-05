@@ -9,3 +9,4 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\refint\ASMNT.Models.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ref\ASMNT.Models.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.sourcelink.json

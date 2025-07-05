@@ -13,3 +13,4 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Reposito
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\refint\ASMNT.Repositories.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ref\ASMNT.Repositories.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Repositories\obj\Debug\net8.0\ASMNT.Repositories.sourcelink.json

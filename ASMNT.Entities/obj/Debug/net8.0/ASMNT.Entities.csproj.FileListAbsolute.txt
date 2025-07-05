@@ -12,3 +12,4 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\refint\ASMNT.Entit
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.genruntimeconfig.cache
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ref\ASMNT.Entities.dll
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.sourcelink.json
