@@ -13,7 +13,7 @@ const StaffAuth = () => {
           <h1 className="card-title">OTP</h1>
           <div className="form-control w-full max-w-md">
   <label className="label">
-    <span className="label-text text-md font-bold">Phone Number</span>
+    <span className="label-text text-md font-bold">Phone Number 1</span>
   </label>
   <input
     type="text"
