@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASMNT.Entities", "ASMNT.Ent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASMNT.Models", "ASMNT.Models\ASMNT.Models.csproj", "{26C8CFFD-AF3C-4919-848D-07984D0C5B2A}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "asmnt.client", "asmnt.client\asmnt.client.esproj", "{1D5097B8-E26F-52F8-DAA5-ABA5847333EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,12 @@ Global
 		{26C8CFFD-AF3C-4919-848D-07984D0C5B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26C8CFFD-AF3C-4919-848D-07984D0C5B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26C8CFFD-AF3C-4919-848D-07984D0C5B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5097B8-E26F-52F8-DAA5-ABA5847333EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5097B8-E26F-52F8-DAA5-ABA5847333EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5097B8-E26F-52F8-DAA5-ABA5847333EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1D5097B8-E26F-52F8-DAA5-ABA5847333EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5097B8-E26F-52F8-DAA5-ABA5847333EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5097B8-E26F-52F8-DAA5-ABA5847333EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
