@@ -1,7 +1,37 @@
 import {React } from 'react'
 import { Link,useNavigate } from 'react-router-dom'
+import api from '../axiosService'
 
 const Home = () => {
+
+    const OnPostButtonClick= async ()=>
+    {
+        try{
+     alert("Init") ;
+     const res = await api.post("/Vali/cors-test",{name: 'Vetri'});      
+     alert(JSON.stringify(res.data));
+     }
+        catch(execption){
+            alert(JSON.stringify(execption));
+        }
+           //sessionStorage.setItem("token", res.data.token);
+           //toast.success("User Logged in successfully!");
+    }
+
+    const OnGetButtonClick= async ()=>
+    {
+        try{
+     alert("Init Get") ;
+     const res = await api.get("/Vali/cors-test-get");      
+     alert(JSON.stringify(res.data));
+     }
+        catch(execption){
+            alert(JSON.stringify(execption));
+        }
+           //sessionStorage.setItem("token", res.data.token);
+           //toast.success("User Logged in successfully!");
+    }
+
     return (
         <>
         
@@ -47,7 +77,12 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
-
+                <div>
+                    <button className="btn text-lg btn-primary" onClick={OnGetButtonClick}>Test Get</button>
+                </div>
+                <div>
+                    <button className="btn text-lg btn-primary" onClick={OnPostButtonClick}>Test Post</button>
+                </div>
             </div>
             </div>
         </div>

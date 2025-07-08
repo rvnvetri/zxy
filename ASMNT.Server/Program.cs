@@ -58,6 +58,7 @@ builder.Services.AddAuthentication(options =>
 builder.Services.AddControllersWithViews().AddJsonOptions(o =>
 {
     o.JsonSerializerOptions.PropertyNamingPolicy = null;
+    o.JsonSerializerOptions.PropertyNameCaseInsensitive = true;
 });
 builder.Services.AddScoped<IMailService, MailService>();
 builder.Services.AddScoped<IAdminService, AdminService>();

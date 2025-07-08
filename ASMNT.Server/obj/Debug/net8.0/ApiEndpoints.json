@@ -204,6 +204,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ASMNT.Server.Controllers.ValiController",
+    "Method": "CorsTest",
+    "RelativePath": "api/Vali/cors-test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASMNT.Server.Controllers.ValiController\u002BMyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASMNT.Server.Controllers.ValiController",
+    "Method": "CorsTestGet",
+    "RelativePath": "api/Vali/cors-test-get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_6",
     "RelativePath": "cors-test",
