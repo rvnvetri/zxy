@@ -73,7 +73,7 @@ export default function Login() {
       //   password,
       // });
       
-        alert("login init");
+        alert("login     ttt  init");
       const res = await api.post("/Auth/login",{Username:username,Password:password,Role:role});      
       sessionStorage.setItem("token", res.data.token);
       toast.success("User Logged in successfully!");
