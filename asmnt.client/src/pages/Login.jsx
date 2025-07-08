@@ -58,9 +58,16 @@ export default function Login() {
       //   username,
       //   password,
       // });
-      const res = await api.post("/Auth/login",{username,password,role});      
+      try{
+        alert("login init");
+      const res = await api.post("/Auth/login",{Username:username,Password:password,Role:role});      
       sessionStorage.setItem("token", res.data.token);
       toast.success("User Logged in successfully!");
+      }
+      catch(exc){
+        alert(JSON.stringify(exc));
+      }
+      
     if(id == "0"){
       navigate("/stdashboard");
     }
