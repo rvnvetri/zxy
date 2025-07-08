@@ -112,6 +112,9 @@ export default function Login() {
           {id == 2 &&
           <h2 className="card-title">Admin Login</h2>
           }
+          <div className="row">
+                    <button className="btn text-lg btn-primary" onClick={OnPostButtonClick}>Test login Post</button>
+                </div>
 
           <input
             className="input input-bordered"
@@ -162,10 +165,7 @@ export default function Login() {
       </div>
       
       }
-      </div>
-      <div>
-                    <button className="btn text-lg btn-primary" onClick={OnPostButtonClick}>Test login Post</button>
-                </div>
+      </div>      
     </div>
   );
 }
