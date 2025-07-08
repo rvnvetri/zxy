@@ -1,0 +1,22 @@
+
+{
+    "region" : "us-east-2",
+    "profile" : "default",
+    "configuration" : "Release",
+    "framework"     : "net8.0",
+    "function-name" : "AssesmentApiFunction",
+    "package-type"  : "Zip",
+    "function-handler" : "ASMNT.Server",
+    "function-memory-size" : 256,
+    "function-role"        : "arn:aws:iam::931141161920:role/lambda_exec_AssesmentApiFunction",
+    "function-timeout"     : 10,
+    "function-runtime"     : "dotnet8",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "dockerfile"               : "Dockerfile",
+    "image-tag"                : "",
+    "function-description"     : ""
+}

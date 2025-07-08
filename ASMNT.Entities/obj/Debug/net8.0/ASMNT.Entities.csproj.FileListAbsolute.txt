@@ -7,9 +7,9 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.Gen
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.AssemblyInfoInputs.cache
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.AssemblyInfo.cs
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.csproj.CoreCompileInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.sourcelink.json
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\refint\ASMNT.Entities.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.genruntimeconfig.cache
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ref\ASMNT.Entities.dll
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Entities\obj\Debug\net8.0\ASMNT.Entities.sourcelink.json

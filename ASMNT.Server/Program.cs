@@ -78,7 +78,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins("http://localhost:5173")
+        policy.WithOrigins("http://localhost:5173", "https://d2zdhjslqx2fr5.cloudfront.net")
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();
@@ -89,7 +89,7 @@ builder.Services.AddCors(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddAWSLambdaHosting(LambdaEventSource.RestApi);
 var app = builder.Build();
 
 app.UseDefaultFiles(); //Addde by vetri
@@ -113,7 +113,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-
+app.MapGet("/test", () => "API is works");
 app.MapGet("/cors-test", () => "CORS works").RequireCors("AllowReactApp");
 
 app.Run();

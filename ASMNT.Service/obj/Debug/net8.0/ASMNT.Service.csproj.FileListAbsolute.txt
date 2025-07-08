@@ -1,8 +1,3 @@
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.csproj.AssemblyReference.cache
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.GeneratedMSBuildEditorConfig.editorconfig
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.AssemblyInfoInputs.cache
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.AssemblyInfo.cs
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.csproj.CoreCompileInputs.cache
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\bin\Debug\net8.0\ASMNT.Service.deps.json
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\bin\Debug\net8.0\ASMNT.Service.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\bin\Debug\net8.0\ASMNT.Service.pdb
@@ -14,9 +9,14 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\bin\Debug\net8.0\ASMNT.Dtos.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\bin\Debug\net8.0\ASMNT.Models.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\bin\Debug\net8.0\ASMNT.Repositories.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\bin\Debug\net8.0\ASMNT.Entities.pdb
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.csproj.AssemblyReference.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.AssemblyInfoInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.AssemblyInfo.cs
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.csproj.CoreCompileInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.sourcelink.json
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Se.5F5BA513.Up2Date
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\refint\ASMNT.Service.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ref\ASMNT.Service.dll
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Service\obj\Debug\net8.0\ASMNT.Service.sourcelink.json

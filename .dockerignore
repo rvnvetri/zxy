@@ -1,0 +1,30 @@
+# Ignore everything by default
+**
+
+# Allow server project and supporting libraries
+!ASMNT.Server/**
+!ASMNT.Server/*.csproj
+
+!ASMNT.Dtos/**
+!ASMNT.Dtos/*.csproj
+
+!ASMNT.Entities/**
+!ASMNT.Entities/*.csproj
+
+!ASMNT.Models/**
+!ASMNT.Models/*.csproj
+
+!ASMNT.Repositories/**
+!ASMNT.Repositories/*.csproj
+
+!ASMNT.Service/**
+!ASMNT.Service/*.csproj
+
+# Allow Dockerfile
+!Dockerfile
+
+# Prevent node_modules and build output
+asmnt.client/
+node_modules/
+dist/
+*.log

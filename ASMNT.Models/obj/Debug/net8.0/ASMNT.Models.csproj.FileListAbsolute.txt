@@ -5,8 +5,8 @@ E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.Generat
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.AssemblyInfoInputs.cache
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.AssemblyInfo.cs
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.csproj.CoreCompileInputs.cache
+E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.sourcelink.json
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\refint\ASMNT.Models.dll
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.pdb
 E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ref\ASMNT.Models.dll
-E:\Vetri\Proj\Web\React\ASMNT\ASMNT.Models\obj\Debug\net8.0\ASMNT.Models.sourcelink.json
