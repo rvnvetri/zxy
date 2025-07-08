@@ -25,6 +25,20 @@ export default function Login() {
   };
   
 
+  const OnPostButtonClick= async ()=>
+    {
+        try{
+     alert("Init") ;
+     const res = await api.post("/Auth/login-post-test",{name: 'login Vetri'});      
+     alert(JSON.stringify(res.data));
+     }
+        catch(execption){
+            alert(JSON.stringify(execption));
+        }
+           //sessionStorage.setItem("token", res.data.token);
+           //toast.success("User Logged in successfully!");
+    }
+
   const handleLogin = async () => {
     
     setError("");
@@ -58,15 +72,14 @@ export default function Login() {
       //   username,
       //   password,
       // });
-      try{
+      
         alert("login init");
       const res = await api.post("/Auth/login",{Username:username,Password:password,Role:role});      
       sessionStorage.setItem("token", res.data.token);
       toast.success("User Logged in successfully!");
-      }
-      catch(exc){
-        alert(JSON.stringify(exc));
-      }
+     
+        
+      
       
     if(id == "0"){
       navigate("/stdashboard");
@@ -80,7 +93,7 @@ export default function Login() {
       
     
     } catch (err) {      
-      //alert(JSON.stringify(err.response.data))  ;
+      alert(JSON.stringify(err))  ;
       setError(err.response.data);
       toast.error(err.response.data);
     }
@@ -145,7 +158,11 @@ export default function Login() {
           </Link>
           }
         </p>
+        <div>
+                    <button className="btn text-lg btn-primary" onClick={OnPostButtonClick}>Test Post</button>
+                </div>
       </div>
+      
       }
       </div>
     </div>

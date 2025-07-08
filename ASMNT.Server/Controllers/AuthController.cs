@@ -35,6 +35,26 @@ namespace ASMNT.Server.Controllers
             _configuration = configuration;
             _mailService = mailService;
         }
+        public class MyDto
+        {
+            public string Name { get; set; }
+        }
+        [HttpPost("login-post-test")]
+        public IActionResult CorsTest([FromBody] MyDto dto)
+        {
+            try
+            {
+                if (dto == null)
+                    return BadRequest("DTO is null");
+
+                return Ok(new { message = $"Hello login post {dto.Name}" });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.ToString());
+            }
+        }
+
 
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginDto model)
