@@ -158,13 +158,14 @@ export default function Login() {
           </Link>
           }
         </p>
-        <div>
-                    <button className="btn text-lg btn-primary" onClick={OnPostButtonClick}>Test Post</button>
-                </div>
+        
       </div>
       
       }
       </div>
+      <div>
+                    <button className="btn text-lg btn-primary" onClick={OnPostButtonClick}>Test login Post</button>
+                </div>
     </div>
   );
 }
