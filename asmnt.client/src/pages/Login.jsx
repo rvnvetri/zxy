@@ -29,7 +29,7 @@ export default function Login() {
     {
         try{
      alert("Init") ;
-     const res = await api.post("/Auth/login-post-test",{name: 'login Vetri'});      
+     const res = await api.post("/Auth/login-post-test",{name: 'login test Vetri'});      
      alert(JSON.stringify(res.data));
      }
         catch(execption){
